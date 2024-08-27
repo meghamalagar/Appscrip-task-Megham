@@ -13,6 +13,8 @@ npm run dev
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/user-attachments/assets/422742d3-e9d3-4de9-b261-a96c1ce67cb2)
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
