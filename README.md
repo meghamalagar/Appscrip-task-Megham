@@ -3,10 +3,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
-cd appscrip-task-megham
-npm install
+
 
 ```bash
+
+cd appscrip-task-megham
+npm install
 npm run dev
 
 
